@@ -34,7 +34,7 @@ export default function Home() {
               <li>43701 - CIÊNCIA DA COMPUTAÇÃO</li>
               <li>9115 - ANÁPOLIS</li>
               <li>VÁLIDA</li>
-              <li>JUN/2024</li>
+              <li>JUN/2025</li>
             </ul>
           </div>
         </div>
